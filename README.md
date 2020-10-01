@@ -14,7 +14,7 @@ Estimating the value of Pi using the [Monte Carlo Method](https://en.wikipedia.o
 
 ## Concept
 
-<img src="media/formula.png" style="background:white" width=480 alt="π = 4 * (no. of points inside the circle) / (no. of points outside the circle)"/>
+<img src="media/formula.jpg" style="background:white" width=480 alt="π = 4 * (no. of points inside the circle) / (no. of points outside the circle)"/>
 
 ## Credits
 
