@@ -2,7 +2,7 @@
 
 ## About
 
-Estimating the value of Pi using the Monte Carlo Method.
+Estimating the value of Pi using the [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method).
 
 [p5.js](https://p5js.org/) used for rendering the animations on the canvas.
 
@@ -14,7 +14,7 @@ Estimating the value of Pi using the Monte Carlo Method.
 
 ## Concept
 
-<img src="media/formula.svg" style="background:white" width=480 alt="π = 4 * (no. of points inside the circle) / (no. of points outside the circle)"/>
+<img src="media/formula.png" style="background:white" width=480 alt="π = 4 * (no. of points inside the circle) / (no. of points outside the circle)"/>
 
 ## Credits
 
